@@ -3,3 +3,12 @@ table {width:100%}
 td {width:50%; text-align:center;}
 img {border-radius : 20px;}
 .gray{color:#6C757D;}
+
+#myDIV {
+  line-height: 16px;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  50% {line-height: 50px;}
+}
