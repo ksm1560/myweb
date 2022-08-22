@@ -1,0 +1,156 @@
+.container {
+  width:100%;
+  background-color: #000;
+  height:120px;
+}
+.header {
+  margin:auto;
+  width:1080px;
+  height:120px;
+  background-color: pink;
+}
+.h1{
+  position:relative;
+  color:#fff;
+  font-size:40px;
+  left:40px;
+  top:30px;
+  font-weight:bold;
+}
+.main{
+  margin:auto;
+  width:1080px;
+  background-color: yellow;
+}
+.menu{
+  width:1000px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.m1{
+  float:left;
+  font-size: 16px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  width:322px;
+  height: 33px;
+  text-align: center;
+}
+.m2{
+  margin-left: 14px;
+  float:left;
+  font-size: 16px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  width:322px;
+  height: 33px;
+  text-align: center;
+}
+.m3{
+  margin-left: 14px;
+  float:left;
+  font-size: 16px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  width:322px;
+  height: 33px;
+  text-align: center;
+}
+.m1:hover, .m2:hover, .m3:hover {
+  border: 1px solid #454545;
+  font-weight: bold;
+}
+.title{
+  margin-left:40px;
+  margin-right:40px;
+  padding-top:15px;
+  height:50px;
+  border-bottom: 1px solid #454545;
+}
+.t1{
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 30px;
+  background-color: #f7f7f7;
+  border: 1px solid #d1d1d1;
+  font-size: 16px;
+  color:#333;
+  font-weight: bold;
+  height:46px;
+}
+.t2{
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+}
+.c_text{
+  margin:30px;
+  font-size:12px;
+  color:#000;
+}
+.d_text{
+  margin:10px 10px 10px 20px;
+  font-size:16px;
+  font-weight:bold;
+  color:#000;
+}
+.footer{
+  clear:left;
+  position: relative;
+  width:100%;
+  text-align:center;
+}
+h5 {
+  font-size:12px;
+  color:#999;
+}
+h4{
+  font-size:12px;
+  color:#000;
+}
+table{
+  width:100%;
+}
+
+td, th{
+  border:1px solid #ddd;
+  height:40px;
+  text-align:center;
+}
+.box{
+  margin:30px;
+  border: solid #dfdfdf 1px;
+  padding:10px;
+}
+
+.bo1{
+  border-top:2px solid #000;
+  border-bottom:1px solid #999;
+  background-color: #f7f7f7;
+}
+
+.tit{
+  font-size:30px;
+  font-weight:bold;
+  text-align:center;
+}
+.skyblue{
+  color:CornflowerBlue;
+  font-weight:bold;
+}
+.a_text{
+  margin:30px;
+}
+ul.a{list-style-type:square;}
+ul.b{list-style-type:circle;}
+.red{
+  color:red;
+}
+.num_li{
+
+}
+.b_li{
+
+}
